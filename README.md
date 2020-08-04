@@ -4,7 +4,7 @@ A dll hijacking vulnerability in zoom meeting &lt; 5.1.3
 ### Affected Windows version
 * Windows 7 or less
 * Windows Server 2008
-* Any other windows system that doesn't have `SHCore.dll` present in default zoom search path
+* Any other windows system that doesn't have `SHCore.dll` present.
 
 ### Usage
 * Copy the `dbghelper.dll` and `SHCore.dll` to following location
