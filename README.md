@@ -3,7 +3,6 @@ A dll hijacking vulnerability in zoom meeting &lt; 5.1.3
 <br />
 ### Affected Windows version
 * Windows 7 or less
-<br/>
 * Windows Server 2008
 
 ### Usage
