@@ -16,5 +16,5 @@ A dll hijacking vulnerability in zoom meeting &lt; 5.1.3
   <br/>
  **Reference**: 
  <br/>
- https://blog.0patch.com/2020/07/remote-code-execution-vulnerability-in.html
+ https://blog.0patch.com/2020/07/remote-code-execution-vulnerability-in.html <br/>
  https://www.programmersought.com/article/85545053408/
