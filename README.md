@@ -13,4 +13,8 @@ A dll hijacking vulnerability in zoom meeting &lt; 5.1.3
 
  **Note**: You can modify the code of SHCore.dll by opening `shcore dll.sln` project in Visual studio.
  <br/>
- **Reference**: https://blog.0patch.com/2020/07/remote-code-execution-vulnerability-in.html
+  <br/>
+ **Reference**: 
+ <br/>
+ https://blog.0patch.com/2020/07/remote-code-execution-vulnerability-in.html
+ https://www.programmersought.com/article/85545053408/
